@@ -82,3 +82,22 @@ Sección en donde se incluye la localización de la sucursal del gym seleccionad
 <h2 align="center"> World of Games App </h2>
 
 <h4>SPA creada durante el bootcamp de Full Stack Developer la cual gracias a la API RAWG permite obtener los detalles de un videojuego en particular de entre +500.000 y agregar nuevos a una base de datos. Cuenta además con una barra de búsqueda, la posibilidad de ordenar los videojuegos mostrados ascendente o descendentemente dependiendo de su nombre o rating y también la de poder filtrarlos por géneros o por origen (API o DB). Se uso PostgreSQL y Sequelize para la Base de datos, Node.js y Express para el Backend y React.js acompañado de Redux para el FrontEnd con CSS puro.</h4>
+
+<p align="center">
+  <a><img width="250px" src="./images/landing.png" /></a>
+  <a><img width="250px" src="./images/home.png" /></a>
+</p>
+
+<p align="center">
+  <a><img width="250px" src="./images/paginado.png" /></a>
+  <a><img width="250px" src="./images/creategame.png" /></a>
+</p>
+
+<p align="center">
+  <a><img width="250px" src="./images/detail.png" /></a>
+</p>
+
+<p align="center"> 
+        <a cursor="pointer" href="https://wog-app.vercel.app/">Ver deploy Web</a>
+        <a cursor="pointer" href="https://github.com/juani029/PIVideoGames"> Ver repositorio</a>
+</p>
