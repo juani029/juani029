@@ -101,3 +101,8 @@ Sección en donde se incluye la localización de la sucursal del gym seleccionad
         <a cursor="pointer" href="https://wog-app.vercel.app/">Ver deploy Web</a>
         <a cursor="pointer" href="https://github.com/juani029/PIVideoGames"> Ver repositorio</a>
 </p>
+
+<h1>📫 Contacto</h1>
+<p align="left">
+    <a href="mailto:juanignacio0298@gmail.com" target="_blank" rel="noreferrer">juanignacio0298@gmail.com</a>
+</p>
