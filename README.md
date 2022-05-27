@@ -1,7 +1,7 @@
 <p align="center"><img  width="500px" src="./images/taza.png"/></p>
 
 <h1 align="center">Hola 👋, soy Juan Ignacio
-<hr width="350px">
+<hr align="center" width="350px">
 Desarrollador Backend
 </h1>
 <h2><strong>Sobre mi:</strong></h2>
