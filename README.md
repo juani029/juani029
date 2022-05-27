@@ -1,8 +1,7 @@
 <p align="center"><img  width="500px" src="./images/taza.png"/></p>
 
 <h1 align="center">Hola 👋, soy Juan Ignacio</h1>
-<hr align="center" width="350px">
-<h2 align="center"> Desarrollador Backend </h2>
+<h2 align="center"> Backend Developer </h2>
 <h2><strong>Sobre mi:</strong></h2>
 <p>Desde pequeño me apasiona el mundo de la tecnología en general, en mis tiempos libres juego videojuegos, practico fútbol y salgo de fiesta con amigos.</p>
 <p align="left">
