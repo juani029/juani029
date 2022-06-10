@@ -102,6 +102,8 @@
 
 <h1>📫 Contact me: </h1>
 <p align="left">
-    <a href="mailto:juanignacio0298@gmail.com" target="_blank" rel="noreferrer">juanignacio0298@gmail.com</a>
-  <a href="https://www.linkedin.com/in/juanisantillan-dev/">Linkedin</a>
+  <a href="mailto:juanignacio0298@gmail.com" target="_blank" rel="noreferrer">juanignacio0298@gmail.com</a>
 </p>
+<p>
+  <a href="https://www.linkedin.com/in/juanisantillan-dev/" target="_blank" rel="noreferrer">Linkedin</a> 
+</p> 
