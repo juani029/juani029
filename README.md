@@ -1,9 +1,11 @@
 <p align="center"><img  width="500px" src="./images/taza.png"/></p>
 
-<h1 align="center">Hola 👋, soy Juan Ignacio</h1>
-<h2 align="center"> Backend Developer </h2>
-<h2><strong>Sobre mi:</strong></h2>
-<p>Desde pequeño me apasiona el mundo de la tecnología en general, en mis tiempos libres juego videojuegos, practico fútbol y salgo de fiesta con amigos.</p>
+<h1 align="center">Hi 👋, i'm Juan Ignacio 👨‍💻</h1>
+<h2 align="center"> Full Stack Developer </h2>
+<h2><strong>About me:</strong></h2>
+<p> Full Stack Developer from <strong>Argentina 🇦🇷</strong>. Currently studying english 🤓 and looking for my first IT job 💪.
+  Passionate about technology since I was little, I like coffee ☕ and playing video games 🎮.
+</p>
 <p align="left">
 </p>
 &nbsp;
