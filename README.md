@@ -100,7 +100,8 @@
         <a cursor="pointer" href="https://github.com/juani029/PIVideoGames"> Repository </a>
 </p>
 
-<h1>📫 Contact: </h1>
+<h1>📫 Contact me: </h1>
 <p align="left">
     <a href="mailto:juanignacio0298@gmail.com" target="_blank" rel="noreferrer">juanignacio0298@gmail.com</a>
+  <a href="https://www.linkedin.com/in/juanisantillan-dev/">Linkedin</a>
 </p>
