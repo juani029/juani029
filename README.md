@@ -65,8 +65,8 @@
 </p>
 
 <p align="center"> 
-        <a cursor="pointer" href="https://pgym-henry-final.vercel.app/">Ver deploy Web</a>
-        <a cursor="pointer" href="https://github.com/agskbr/PF-Gym-Control-App"> Ver repositorio</a>
+        <a cursor="pointer" href="https://pgym-henry-final.vercel.app/">Deploy Web</a>
+        <a cursor="pointer" href="https://github.com/agskbr/PF-Gym-Control-App"> Repository </a>
 </p>
 
 ## Contributors
@@ -94,8 +94,8 @@
 </p>
 
 <p align="center"> 
-        <a cursor="pointer" href="https://wog-app.vercel.app/">Ver deploy Web</a>
-        <a cursor="pointer" href="https://github.com/juani029/PIVideoGames"> Ver repositorio</a>
+        <a cursor="pointer" href="https://wog-app.vercel.app/">Deploy Web</a>
+        <a cursor="pointer" href="https://github.com/juani029/PIVideoGames"> Repository </a>
 </p>
 
 <h1>📫 Contact: </h1>
