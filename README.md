@@ -4,11 +4,11 @@
 <h2 align="center"> Full Stack Developer </h2>
 <h2><strong>Sobre mi:</strong></h2>
 <ul> 
-  <li>Soy de <strong>Argentina 🇦🇷</strong>. Actualmente estoy aprendiendo <strong>Next Js</strong>, realizando proyectos y perfeccionandome constantemente para conseguir mi tan ansiado primer trabajo como desarrollador.</li>
+  <li>Soy de <strong>Argentina 🇦🇷</strong>. Actualmente estoy aprendiendo <strong>el stack MERN</strong>, realizando proyectos y perfeccionandome constantemente para poder demostrar mis conocimientos y habilidades en un entorno laboral.</li>
   <li>Apasionado por la tecnología desde pequeño, me gusta el café ☕ y los videojuegos 🎮.</li>
   <li>En Febrero de 2022 ingresé en el bootcamp de full-stack development de la academia Henry, y me gradué en Mayo del 2022. 🕑 📚 📅</li>
   <li>En mi proyecto final realizamos desde cero una <strong>SPA(single page application)</strong> para un gimnasio, esta experiencia no solo profundizó los conocimientos adquiridos en el bootcamp, sino que además me hizo notar que disfruto el trabajo en equipo.</li>
-  <li>Tecnologías que manejo: <strong>HTML, CSS, Javascript, React, Redux, Express, MySQL, PostgreSQL, Sequelize, Next Js, PHP</strong> entre otras.
+  <li>Tecnologías que manejo: <strong>HTML, CSS, Javascript, React, Redux, Express, MySQL, PostgreSQL, MongoDb, Mongoose, Sequelize, PHP, TailwindCss</strong> entre otras.
   <li>Si te interesa saber más sobre mi te dejo mi <a href="https://www.linkedin.com/in/juanisantillan-dev/">Perfil de Linkedin</a>⭐
   <li>Gracias por haber leido hasta la última linea y que tengas un lindo día! 😘 ✋</li>
 </ul>
