@@ -8,7 +8,7 @@
   <li>Apasionado por la tecnología desde pequeño, me gusta el café ☕ y los videojuegos 🎮.</li>
   <li>En Febrero de 2022 ingresé en el bootcamp de full-stack development de la academia Henry, y me gradué en Mayo del 2022. 🕑 📚 📅</li>
   <li>En mi proyecto final realizamos desde cero una <strong>SPA(single page application)</strong> para un gimnasio, esta experiencia no solo profundizó los conocimientos adquiridos en el bootcamp, sino que además me hizo notar que disfruto el trabajo en equipo.</li>
-  <li>Tecnologías que manejo: <strong>HTML, CSS, Javascript, React, Redux, Express, MySQL, PostgreSQL, MongoDb, Mongoose, Sequelize, PHP, TailwindCss</strong> entre otras.
+  <li>Tecnologías que manejo: <strong>HTML, CSS, Styled Components, TailwindCss, Javascript, React, Node, Express, PostgreSQL, MongoDb, Mongoose, Sequelize, </strong> entre otras.
   <li>Si te interesa saber más sobre mi te dejo mi <a href="https://www.linkedin.com/in/juanisantillan-dev/">Perfil de Linkedin</a>⭐
   <li>Gracias por haber leido hasta la última linea y que tengas un lindo día! 😘 ✋</li>
 </ul>
