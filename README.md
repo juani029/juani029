@@ -1,7 +1,7 @@
 <p align="center"><img  width="500px" src="./images/taza.png"/></p>
 
 <h1 align="center">Hola 👋, soy Juan Ignacio 👨‍💻</h1>
-<h2 align="center"> Full Stack Developer </h2>
+<h2 align="center"> Desarrollador Web Full Stack </h2>
 <h2><strong>Sobre mi:</strong></h2>
 <ul> 
   <li>Soy de <strong>Argentina 🇦🇷</strong>. Actualmente estoy aprendiendo <strong>el stack MERN</strong>, realizando proyectos y perfeccionandome constantemente para poder demostrar mis conocimientos y habilidades en un entorno laboral.</li>
